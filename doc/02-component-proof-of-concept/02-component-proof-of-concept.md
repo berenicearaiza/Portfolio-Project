@@ -47,9 +47,7 @@ to the tree diagram (you may remove this one as well):
 "todo-tree.tree.showCountsInTree": true,
 ```
 
-## Assignment Learning Objectives
-
-<!-- TODO: read the assignment learning objectives then delete this comment -->
+## Assignment Learning Objective
 
 Without learning objectives, there really is no clear reason why a particular
 assessment or activity exists. Therefore, to be completely transparent, here is
@@ -63,8 +61,6 @@ project. Specifically, students should be able to:
 3. Assemble a minimal working implementation of one of their designs
 
 ## Assignment Rubric: 10 Points
-
-<!-- TODO: read the assignment rubric then delete this comment -->
 
 Again, to be completely transparent, most of the portfolio project, except the
 final submission, is designed as a formative assessment. Formative assessments
@@ -120,8 +116,6 @@ I chose the music playlist design mainly because music is something I interact w
 > VSCode to run git commands. It's entirely up to you. Regardless of your choice,
 > we'll want a branch that you can later make a pull request from with all
 > your changes.
-
-<!-- TODO: make a new branch from main then delete this comment -->
 
 ## Assignment Tasks
 
