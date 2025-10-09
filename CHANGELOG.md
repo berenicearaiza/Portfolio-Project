@@ -14,3 +14,12 @@ the following form: YYYY.0M.0D.
 - Designed a Latin Library component
 - Designed a Crochet Project Tracker component
 
+## 2025.10.09
+
+### Added
+
+- Designed a proof of concept for Music Playlist component
+
+### Updated
+
+- Changed design to include the drafted implementations for the methods addSong, removeFirstSong, hasNoSongs, skipSong, currentSong, and shufflePlaylist. The method names were changed to be more explicit. The main method includes a sample implementation using the methods described.
