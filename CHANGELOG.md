@@ -18,7 +18,7 @@ the following form: YYYY.0M.0D.
 
 ### Added
 
-- Designed a proof of concept for Music Playlist component
+- Designed a proof of concept for Music Playlist component.
 
 ### Updated
 
