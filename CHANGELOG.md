@@ -8,8 +8,6 @@ the following form: YYYY.0M.0D.
 
 ## 2025.09.18
 
-### Added
-
 - Designed a Music Playlist component
 - Designed a Latin Library component
 - Designed a Crochet Project Tracker component
