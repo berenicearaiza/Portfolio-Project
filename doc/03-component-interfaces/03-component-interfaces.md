@@ -3,7 +3,11 @@
 - **Name**: Berenice Araiza Sierra
 - **Dot Number**: araizasierra.1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - **Due Date**: 10/23 @ 12:40pm
+=======
+- **Due Date**: 10/20 @12:40pm
+>>>>>>> Stashed changes
 =======
 - **Due Date**: 10/20 @12:40pm
 >>>>>>> Stashed changes
@@ -135,7 +139,10 @@ of it in this folder. You may also embed it just below using markdown syntax
 (i.e., `![ALT TEXT](path/to/file)`).
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ![Hirearchy diagram using MusicPlaylist component](Portfolio-Project/doc/03-component-interfaces/IMG_4543.jpg)
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 
