@@ -2,7 +2,11 @@
 
 - **Name**: Berenice Araiza Sierra
 - **Dot Number**: araizasierra.1
+<<<<<<< Updated upstream
 - **Due Date**: 10/23 @ 12:40pm
+=======
+- **Due Date**: 10/20 @12:40pm
+>>>>>>> Stashed changes
 
 ## Assignment Overview
 
@@ -130,7 +134,10 @@ hierarchy diagram using whatever tools you would like. Then, include a picture
 of it in this folder. You may also embed it just below using markdown syntax
 (i.e., `![ALT TEXT](path/to/file)`).
 
+<<<<<<< Updated upstream
 ![Hirearchy diagram using MusicPlaylist component](Portfolio-Project/doc/03-component-interfaces/IMG_4543.jpg)
+=======
+>>>>>>> Stashed changes
 
 To start making your interfaces, make a branch off of main in your new repo
 called something like `interfaces`. There are many ways to do this, but my
