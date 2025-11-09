@@ -106,7 +106,7 @@ Below is further rationale/explanation for the rubric items above:
 > to create a new design. In you do end up picking one at random, you should
 > disclose that here as well.
 
-I chose to implement the music playlist, as music is something I interact with everyday and I know it is feasable to create the components using similar implementations we have already done in class like Queue or Stack. Additionally, it is something that can be improved upon and motivates me to do the project since I am interested in music and what I can do with the componets to change it up.
+I chose to implement the music playlist, as music is something I interact with everyday and I know it is feasable to create the components using similar implementations we have already done in class like Queue or Stack. Additionally, it is something that can be improved upon and motivates me to do the project since I am interested in music and what I can do with the componets to change it up. Additionally, I feel more strongly about implementing a Music Playlist, as it is similar to a Queue and can use similar implementations for kernel methods such as addSong and shuffle.
 
 > Once you've argued your choice of design, make a branch in your new repo called
 > something like `proof-of-concept`. There are many ways to do this, but my
