@@ -3,6 +3,15 @@ import java.util.Iterator;
 import components.queue.Queue;
 import components.queue.Queue1L;
 
+/**
+ * Kernel implementation of MusicPlaylist using a Queue.
+ *
+ * Convetions: rep != null rep does not have null entries every entry is a
+ * non-empty string
+ *
+ * Correspondence: the abstract music playis the sequences of strings stores in
+ * a queue order. the fron of the rep is the first song in the playlist
+ */
 public class MusicPlaylist1L extends MusicPlaylistSecondary {
     /*
      * Private members -------------------------------------------------
