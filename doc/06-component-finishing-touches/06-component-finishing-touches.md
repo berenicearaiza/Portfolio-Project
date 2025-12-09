@@ -1,8 +1,8 @@
 # Portfolio Part 6: Finishing Touches
 
-- **Name**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) and delete this comment -->
-- **Dot Number**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) and delete this comment -->
-- **Due Date**: <!-- TODO: fill out with due date and time (e.g., 10/17 @ 3:10 PM EST) and delete this comment -->
+- **Name**: Berenice Araiza Sierra
+- **Dot Number**: araizasierra.1
+- **Due Date**: 12/10 @ 11:59 pm
 
 ## Assignment Overview
 
@@ -49,8 +49,6 @@ Many of these additional techniques are somewhat out of the scope of this
 course, but just knowing about them could set you up for long term success.
 
 ## Assignment Checklist
-
-<!-- TODO: browse the checklist then delete this comment -->
 
 To be sure you have completed everything on this assignment, we have littered
 this document with TODO comments. You can browse all of them in VSCode by
@@ -140,8 +138,6 @@ merges, you will need to pull the changes from main into your current branch
 to see them. If you don't like this workflow, you may try following the
 rebase strategies described [here](https://stackoverflow.com/questions/35790561/working-while-waiting-for-pending-pr)
 and [here](https://stackoverflow.com/questions/18021888/continue-working-on-a-git-branch-after-making-a-pull-request).
-
-<!-- TODO: make a new branch from main then delete this comment -->
 
 ## Assignment Tasks
 
@@ -307,18 +303,18 @@ Take some time to fill them out honestly.
 > complete the portfolio project, how much better (or worse) do you think you
 > understand software development and why?
 
-<!-- TODO: discuss -->
+I feel that I understand software development much better than before as a result of the portfolio project. One main reason for this is that being able to build my own component highlighted the amount of time and work that goes into software development. Of course, I knew this was the case before, but going through it myself for a small component really put it into perspective. Another thing is that it helped me to research on my own and look at different ways of doing things, or to try to find out how things I knew worked "behind the hood".
 
 > Also, did the portfolio project surface any gaps in your own knowledge of
 > software development. If so, what are those gaps and how did you address them?
 
-<!-- TODO: discuss -->
+I think it did, for instance something that I usually find difficult is forming a complete idea before writing code. So it really helped me to write out things that interested me, then pick one based on feedback and what I found I could do the most with. I also adressed this in different stages as I seeke dexamples and input from others.
 
 > Finally, as a part of completing the portfolio project, to what extent has
 > your perspective of software development changed, if at all? In other words,
 > is software development something you still enjoy? If not, why not?
 
-<!-- TODO: discuss -->
+It is something I still enjoy because it allows me to collaborate with others, seek different perspectives and ideas, and also to build something that I enjoy. Even if it is a long process, I think having a product, a website, etc. that you can see and interact with is very rewarding as well as getting to learn while building it.
 
 > One of the challenges of completing the portfolio project is picking up a lot
 > of skills on your own. Some of these skills are, of course, software skills.
@@ -326,29 +322,29 @@ Take some time to fill them out honestly.
 > this process. Therefore, the first question is what skills did you pick up
 > through this process?
 
-<!-- TODO: discuss -->
+Some skills that I picked up were to seek examples and help. So for instance I asked friends who had taken this class and asked to look at their project and any takeaways or tips that they had. I also utilized Jeremy's blog and resources to help me whilst bulding my component.
 
 > The follow-up question is: could you rephrase these skills you picked up
 > as bullet points that you could put on a resume? Try it below.
 
-<!-- TODO: discuss -->
+- Conducted independent research to understand and apply software patterns and best practives
+- utilized peer and mentor collaboration to guide problem-solving and improve design
+- Strengtherend time management and self guided skills while compleing a technical project
 
 > Next, how has working on this project affected your career trajectory?
 > In other words, do you now hate the topic you picked? Or, are you even more
 > interested in it? Both outcomes are valuable to your personal development.
 
-<!-- TODO: discuss -->
+I am more interested in the topic I picked, and I would like to continue to build something that has to do with music with additonal work or something that I can visualize, for instance.
 
 > Finally, consider the skills you've picked up and your current career
 > trajectory. What are some things you could do to continue on your
 > career trajectory? Also, who are some mentors you could contact to help
 > you stay on your path?
 
-<!-- TODO: discuss -->
+Some things I can do are to continue exploring software development and realize if it is something I can do for the rest of my life, if not, switch it up. Addtionally, do more independent projects and research to solidify my skills and continue learning. Some mentors I can contanct are friends curretnly studying software development, people in the field, and peers from my orgs.
 
 ### Changelog
-
-<!-- TODO: update CHANGELOG then delete this comment -->
 
 At the end of every assignment, you should update the
 [CHANGELOG.md](../../CHANGELOG.md) file found in the root of the project folder.
@@ -363,16 +359,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Calendar Versioning](https://calver.org/) of
 the following form: YYYY.0M.0D.
 
-## YYYY.MM.DD
+## 2025.12.10
 
 ### Added
 
-- Designed test suite for <!-- insert name of component here --> component
-- Designed two different use cases for <!-- insert name of component here --> component
+- Designed test suite for MusicPlaylist component
+- Designed two different use cases for MusicPlaylist component
+- Added method documentation and improved comments for clarity
+added Javadoc comments
 
 ### Updated
 
-- Changed design to include ...
+- Changed design to include naming convetions and structure that better aligned wth project guidelines
 
 ```
 
@@ -383,8 +381,6 @@ like to accomplish that, you will need to make GitHub releases after each pull
 request merge (or at least tag your commits). This is not required.
 
 ### Submission
-
-<!-- TODO: read the submission instructions then delete this comment -->
 
 Assuming that your project is in a GitHub repo somewhere and your changes are on
 a proof-of-concept branch, then what we'll want you to do is create a pull
@@ -435,7 +431,5 @@ PDF to read this rubric as a table).
 If you'd like to give feedback for this assignment (or any assignment, really),
 make use of [this survey][survey]. Your feedback helps make assignments
 better for future students.
-
-<!-- TODO: follow the link to share your feedback then delete this comment -->
 
 [survey]: https://forms.gle/dumXHo6A4Enucdkq9
